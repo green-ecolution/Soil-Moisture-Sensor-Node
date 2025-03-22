@@ -5,7 +5,7 @@ This repository contains the design files, documentation, and firmware for the s
 - **Documentation**: Detailed descriptions of the system, issues, and requirements.
 - **Hardware**: Fusion 360 design files and 3MF files for 3D printing.
 - **Firmware**: Source code for the microcontroller.
-- **Payload-Decode**: TTN javascript payload decoder for the uplink messages.
+- **Payload-Decoder**: TTN javascript payload decoder for the uplink messages.
 
 ## Versions
 - **V1**: Initial prototype with documented issues and lessons learned.
