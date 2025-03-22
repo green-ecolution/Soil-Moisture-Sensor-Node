@@ -12,3 +12,5 @@ This repository contains the design files, documentation, and firmware for the s
   ![V1 Prototype Front View](Images/V1/V1-Assembly.PNG)
   ![V1 Prototype Inside Case View](Images/V1/V1-Case-inside.PNG)
 - **V2**: Improved version addressing V1 shortcomings.
+  ![V2 Prototype Front View](Images/V2/V2-Sensor.PNG)
+  ![V2 Prototype Inside Case View](Images/V2/V2-Case-Inside.PNG)
