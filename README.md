@@ -8,4 +8,6 @@ This repository contains the design files, documentation, and firmware for the s
 
 ## Versions
 - **V1**: Initial prototype with documented issues and lessons learned.
+  ![V1 Prototype Front View](Images/V1/V1-Assembly.PNG)
+  ![V1 Prototype Inside Case View](Images/V1/V1-Case-inside.PNG)
 - **V2**: Improved version addressing V1 shortcomings.
