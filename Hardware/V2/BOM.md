@@ -1,0 +1,34 @@
+| | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|
+|Part|Value|Device|Footprint Name|Detailed Description|MENGE|SHOP|PREIS |LINK|
+|BT1|1042|1042|BAT_1042| |1|Aliexpress|0.96 €|https://de.aliexpress.com/item/1005005301516019.html?spm=a2g0o.productlist.main.11.416a3a84XEYtu3&algo_pvid=4b62b2dd-a761-4c19-97c2-cbabc11dc642&algo_exp_id=4b62b2dd-a761-4c19-97c2-cbabc11dc642-5&pdp_ext_f=%7B%22order%22%3A%22753%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%210.96%210.96%21%21%211.02%211.02%21%40211b655217420378215217485e2794%2112000032549827069%21sea%21DE%211906327968%21X&curPageLogUid=LhQJwOXw8JDN&utparam-url=scene%3Asearch%7Cquery_from%3A|
+|C1|10uF|C_CHIP-1206(3216-METRIC)|CAPC3216X135|Capacitor - Generic|2|Reichelt|0.14 €|https://www.reichelt.de/de/de/shop/produkt/vielschicht-kerko_10_f_16v_125_c-207163|
+|C2|10uF|C_CHIP-1206(3216-METRIC)|CAPC3216X135|Capacitor - Generic|0|Reichelt|0.14 €|https://www.reichelt.de/de/de/shop/produkt/vielschicht-kerko_10_f_16v_125_c-207163|
+|C4|0.1µF|C_CHIP-1206(3216-METRIC)|CAPC3216X135|Capacitor - Generic|1|Reichelt|0.24 €|https://www.reichelt.de/de/de/shop/produkt/vielschicht_kerko_1206_100_nf_10_x7r_100_v_125_c-207151|
+|CIN|22µF|C_CHIP-1206(3216-METRIC)|CAPC3216X135|Capacitor - Generic|2|Reichelt|0.32 €|https://www.reichelt.de/de/de/shop/produkt/vielschicht-kerko_22_f_25v_125_c-393702|
+|COUT|22µF|C_CHIP-1206(3216-METRIC)|CAPC3216X135|Capacitor - Generic|0|Reichelt|0.32 €|https://www.reichelt.de/de/de/shop/produkt/vielschicht-kerko_22_f_25v_125_c-393702|
+|D2|DIODE|DIODEDO-214AC(SMA)|DIOM5226X290N|Diode Rectifier - Generic|1|Reichelt|0.14 €|https://www.reichelt.de/de/de/shop/produkt/schottkydiode_100_v_1_a_do-214ac_sma-146604|
+|INDUKTOR|0630INDUKTOR|0630INDUKTOR|0630CDMCCDS-4R7MC| |1|Reichelt|0.99 €|https://www.reichelt.de/de/de/shop/produkt/smd-power-induktivitaet_pis2408_ferrit_47_-73084|
+|J1|282834-6|282834-6|2828346| |1|Reichelt|0.99 €|https://www.reichelt.de/de/de/shop/produkt/leiterplattenklemme_6_polig_rm_2_54_mm-276218|
+|MULTIPLEXER|74HC4052D,653|74HC4052D,653|SOIC127P600X175-16N|Dual 4-channel analog multiplexer|1|Reichelt|0.28 €|https://www.reichelt.de/de/de/shop/produkt/dualer_4-kanal-analog-multiplexer_demultiplexer_2_-_6_v_so-16-18688|
+|Q1|PMOSFET|PMOSFET_SOT23-GSD|SOT23|P-Channel MOSFET - Generic|2|Reichelt|0.15 €|https://www.reichelt.de/de/de/shop/produkt/mosfet_p-ch_-12v_-4_3a_0_05r_sot-23-108742|
+|Q2|PMOSFET|PMOSFET_SOT23-GSD|SOT23|P-Channel MOSFET - Generic|0|Reichelt|0.15 €|https://www.reichelt.de/de/de/shop/produkt/mosfet_p-ch_-12v_-4_3a_0_05r_sot-23-108742|
+|R1|110K|R_CHIP-1206(3216-METRIC)|RESC3216X70|Resistor Fixed - Generic|2|Reichelt|0.06 €|https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_1206_110_kohm_250_mw_5_-18248|
+|R2|15K|R_CHIP-1206(3216-METRIC)|RESC3216X70|Resistor Fixed - Generic|1|Reichelt|0.15 €|https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_1206_15_kohm_250_mw_1_-238106|
+|R3|10k|R_CHIP-1206(3216-METRIC)|RESC3216X70|Resistor Fixed - Generic|2|Reichelt|0.15 €|https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_1206_10_kohm_250_mw_1_-238102|
+|R4|0|R_CHIP-1206(3216-METRIC)|RESC3216X70|Resistor Fixed - Generic| | | | |
+|R5|110K|R_CHIP-1206(3216-METRIC)|RESC3216X70|Resistor Fixed - Generic|0|Reichelt|0.06 €|https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_1206_110_kohm_250_mw_5_-18248|
+|R6|10K|R_CHIP-1206(3216-METRIC)|RESC3216X70|Resistor Fixed - Generic|0|Reichelt|0.15 €|https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_1206_10_kohm_250_mw_1_-238102|
+|R7|390K|R_CHIP-1206(3216-METRIC)|RESC3216X70|Resistor Fixed - Generic|1|Reichelt|0.04 €|https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_1206_390_kohm_250_mw_5_-18324|
+|R8|100K|R_CHIP-1206(3216-METRIC)|RESC3216X70|Resistor Fixed - Generic|1|Reichelt|0.04 €|https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_1206_100_kohm_250_mw_5_-18243|
+|R9|1K|R_CHIP-1206(3216-METRIC)|RESC3216X70|Resistor Fixed - Generic|1|Reichelt|0.06 €|https://www.reichelt.de/de/de/shop/produkt/smd-widerstand_1206_1_0_kohm_250_mw_5_-18221|
+|SMT100|TERM-BLK-4P|2828XX-4282834-4|TERMBLK_254-4N|4 Position Wire to Board Terminal Block Horizontal with Board|1|Reichelt|0.87 €|https://www.reichelt.de/de/de/shop/produkt/leiterplattenklemme_4_polig_rm_2_54_mm-276216|
+|U$1|ESP32_WIFI_LORA_V3|ESP32_WIFI_LORA_V3|ESP32_WIFI_LORA_V3| |1|Aliexpress|22.99 €|https://de.aliexpress.com/item/1005007594267069.html?spm=a2g0o.productlist.main.5.66cc2979hDiC8g&algo_pvid=79f40264-1754-4e3d-8f7b-b499153bb977&algo_exp_id=79f40264-1754-4e3d-8f7b-b499153bb977-2&pdp_ext_f=%7B%22order%22%3A%22661%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%2134.99%2122.99%21%21%2135.49%2123.32%21%40%2112000041428073113%21sea%21DE%210%21ABX&curPageLogUid=lwmZsYoj7JeH&utparam-url=scene%3Asearch%7Cquery_from%3A|
+|U$2|RS485_TO_TTL|RS485_TO_TTL|RS485_SMD| |1|Aliexpress|0.99 €|https://de.aliexpress.com/item/1005006160733111.html?spm=a2g0o.productlist.main.3.16bbbf5e4ZcfU6&algo_pvid=e0a9b335-0034-4edb-8d45-f64c388d1bdd&algo_exp_id=e0a9b335-0034-4edb-8d45-f64c388d1bdd-1&pdp_ext_f=%7B%22order%22%3A%22226%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%214.85%210.99%21%21%2135.90%217.35%21%40%2112000036055088006%21sea%21DE%210%21ABX&curPageLogUid=zqo4ROGqRURc&utparam-url=scene%3Asearch%7Cquery_from%3A|
+|U$3|POWER_PADS|POWER_PADS|POWER_PADS_FOOTPRINT| | | | | |
+|U1|MT3608|MT3608A|MT3608|High Efficiency 1.2MHz 2A Step Up Converter|1|Aliexpress|0.99 €|https://de.aliexpress.com/item/1005006224009305.html?spm=a2g0o.productlist.main.21.39191174kMGheM&algo_pvid=ab79bd7b-c0eb-4507-b060-bb8b8ef1adb6&algo_exp_id=ab79bd7b-c0eb-4507-b060-bb8b8ef1adb6-10&pdp_ext_f=%7B%22order%22%3A%2223%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%216.46%210.99%21%21%2147.78%217.34%21%40%2112000036353882633%21sea%21DE%210%21ABX&curPageLogUid=X9p32FrgRkQw&utparam-url=scene%3Asearch%7Cquery_from%3A|
+|U2|LC86G|LC86G|XCVR_LC86G| |1|Aliexpress|8.39 €|https://de.aliexpress.com/item/1005007002973347.html?spm=a2g0o.productlist.main.3.37ce53c7LeR3gb&algo_pvid=dcc1ddab-0e38-4826-a75b-5e2b68c51b2c&algo_exp_id=dcc1ddab-0e38-4826-a75b-5e2b68c51b2c-1&pdp_ext_f=%7B%22order%22%3A%229%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EUR%218.39%218.39%21%21%2162.06%2162.06%21%40%2112000039014246725%21sea%21DE%210%21ABX&curPageLogUid=frlzgx4AXU4Z&utparam-url=scene%3Asearch%7Cquery_from%3A|
+|VR1|LM1117|LD1117_SOT223|SOT230P700X170-4|Adjustable and fixed positive voltage regulator|1|Reichelt|0.99 €|https://www.reichelt.de/de/de/shop/produkt/ldo-regler_uin_2_6_6_0v_uout_3_3v_sot223-3-348868|
+|Antenne| | | | |1|Aliexpress|1.59 €|https://de.aliexpress.com/item/1005006826083501.html?spm=a2g0o.productlist.0.0.5ea84HgM4HgMDd&mp=1&pdp_npi=5%40dis!EUR!EUR%205.36!EUR%205.09!!!!!%40210388c917408247721747198e3303!12000038428000945!ct!DE!1921045136!!1!0&gatewayAdapt=glo2deu|
+| | | | | | | | | |
+| | | | | | | |41.38 €| |
