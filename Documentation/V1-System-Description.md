@@ -17,7 +17,7 @@ V1 is a reference implementation for a sensor node designed to integrate with th
 - **Function**: Measures soil water tension (in kPa).
 - **Why Watermark 200SS?**
     - The Watermark 200SS sensors were selected based on recommendations from arboriculture professors and industry experts, including TreeSense and ARBOR revital.
-    - **Proven Technology**: These sensors are widely used in both industrial and scientific applications, demonstrating reliability and accuracy.
+    - **Proven Technology**: These sensors are widely used in both industrial and scientific applications, demonstrating reliability and accuracy.[1][2]
     - **Robustness**: Suitable for various soil types and conditions.
     - **Long-Term Stability**: Delivers consistent results over many years.
 - **Application**: Three Watermark sensors are attached to the rod, measuring soil water tension at depths of 30 cm, 60 cm, and 90 cm.
@@ -101,3 +101,7 @@ The electronics serve as the "brain" of the system and include the following com
 - **Why TTN?**
     - It is the most widely recognized publicly available LoRaWAN network.
     - It is used by project stakeholders, ensuring compatibility and ease of integration.
+
+# Sources
+- [1] C. C. Shock und F.-X. Wang, „Soil Water Tension, a Powerful Measurement for Productivity and Stewardship“, HortScience, Bd. 46, Nr. 2, S. 178–185, Feb. 2011, doi: 10.21273/hortsci.46.2.178.
+- [2] C. J. Bryant u. a., „Development of a soil moisture sensor‐based irrigation scheduling program for the midsouthern United States“, Crop Forage & Turfgrass Management, Bd. 9, Nr. 1, März 2023, doi: 10.1002/cft2.20217.
