@@ -1,5 +1,7 @@
 # Table of contents
 
+This is the recommended reading order to paint a picture of the developement cycle of this System.  
+
 ## 1. [Description of the first Prototype](Documentation/V1-System-Description.md)
 
 ## 2. [Description of the first Prototypes Problems](Documentation/V1-Problems.md)
